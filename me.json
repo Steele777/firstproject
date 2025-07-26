@@ -1,0 +1,34 @@
+{
+  "name": "Stefan",
+  "age": 40,
+  "city": "Stockholm",
+  "country": "Sverige",
+  "language": "svenska",
+  "interests": [
+    "IT",
+    "automation",
+    "Djurgården",
+    "lag och rätt",
+    "superhjältefilmer",
+    "Kruckmannen",
+    "AI"
+  ],
+  "children": [
+    {
+      "name": "Jack",
+      "age": 8,
+      "interests": [
+        "YouTube",
+        "Flash",
+        "Kruckmannen",
+        "Loman",
+        "skapande",
+        "superhjältar"
+      ]
+    }
+  ],
+  "reminders": [
+    "Kolla Djurgårdens spelschema varje fredag",
+    "Jack har skola kl 08 varje vardag"
+  ]
+}
